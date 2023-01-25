@@ -16,7 +16,8 @@
     "react/jsx-filename-extension": [1, { "extensions": [".js", ".jsx", ".ts", ".tsx"] }],
     "object-curly-spacing": [1, "always"],
     "no-console": 0,
-    "comma-dangle": [1, "always-multiline"]
+    "comma-dangle": [1, "always-multiline"],
+    "react/jsx-one-expression-per-line": 0
   },
   "settings": {
     "import/extensions": [".js", ".jsx", ".ts", ".tsx"],
